@@ -1,0 +1,6 @@
+/home/cdelabs/workspace/web-gsp/src/main/java/io/pivotal/workshop/webgsp/WebGspApplication.java
+/home/cdelabs/workspace/web-gsp/src/main/java/io/pivotal/workshop/domain/Marketing.java
+/home/cdelabs/workspace/web-gsp/src/main/java/io/pivotal/workshop/domain/Snippet.java
+/home/cdelabs/workspace/web-gsp/src/main/java/io/pivotal/workshop/webgsp/controller/SnippetController.java
+/home/cdelabs/workspace/web-gsp/src/main/java/io/pivotal/workshop/webgsp/repository/SnippetRepository.java
+/home/cdelabs/workspace/web-gsp/src/main/java/io/pivotal/workshop/webgsp/controller/MainController.java
